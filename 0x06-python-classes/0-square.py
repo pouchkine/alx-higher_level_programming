@@ -65,6 +65,8 @@ Todo:
 
 
 """
+
+
 class Square():
     """ The Square class doesn't have any attribute
 
