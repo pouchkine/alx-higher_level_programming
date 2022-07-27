@@ -1,1 +1,1 @@
-this repository hold alx hihg programming with python 
+manipulation of python objets
